@@ -1,17 +1,23 @@
-[![Header](https://drive.google.com/file/d/1Thpct4TaCXFsrQlrb1ajfh-t4ZgZNhcj/view?usp=sharing "Header")](https://www.thecarlosfreeman.com/)
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 ### Hi there 👋
-
-
-**The-carlos/The-carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ My nme's Carlos. I'm a `Data Analyst` graduated from @Ironhack, also I studied Communictions & Eectronics engineering.
+ 
+ #My main tools:
+- `Python` 🐍
+- `SQL` 🖥️
+- `ETL`
+- `Machine Learning`
+ 
+- 🌱 I’m currently learning `R` for `Data Analytics` by Google Analytics Professional Certificate.
+- 👯 I’m looking to collaborate on `Data Science` projects with Soial Impact.
+- 📫 Rach me: thecarlossanchezm@gmail.com
 - ⚡ Fun fact: ...
 
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+<iframe src="https://giphy.com/embed/3oKHWtXlzTHeuVewtq" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-season-4-spongebob-squarepants-3oKHWtXlzTHeuVewtq">via GIPHY</a></p>
+
+**The-carlos/The-carlos**
+
+_special_
+`README.md` 
