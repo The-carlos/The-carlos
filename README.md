@@ -1,6 +1,6 @@
 
  Hi there 👋
- My nme's Carlos. I'm a `Data Analyst` graduated from @Ironhack, also I studied Communictions & Eectronics engineering.
+ My name's Carlos. I'm a `Data Analyst` graduated from @Ironhack, also I studied Communictions & Eectronics engineering.
  
  #My main tools:
 - `Python` 🐍
