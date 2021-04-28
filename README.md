@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-### Hi there 👋
+
+ Hi there 👋
  My nme's Carlos. I'm a `Data Analyst` graduated from @Ironhack, also I studied Communictions & Eectronics engineering.
  
  #My main tools:
