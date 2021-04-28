@@ -11,12 +11,4 @@
 - 🌱 I’m currently learning `R` for `Data Analytics` by Google Analytics Professional Certificate.
 - 👯 I’m looking to collaborate on `Data Science` projects with Soial Impact.
 - 📫 Rach me: thecarlossanchezm@gmail.com
-- ⚡ Fun fact: ...
 
-
-<img src="https://media.giphy.com/media/3oKHWtXlzTHeuVewtq/giphy.gif">
-
-**The-carlos/The-carlos**
-
-_special_
-`README.md` 
