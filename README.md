@@ -23,6 +23,6 @@ I'm an @Ironhack alumni. 💙
 <p align="center">
   <a href="https://github.com/The-carlos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=The-carlos&theme=dark&count_private=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=The-carlos&theme=buefy&layout=compact&langs_count=6"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=The-carlos&theme=dark&layout=compact&langs_count=6"/>
   </a>
 </p>
