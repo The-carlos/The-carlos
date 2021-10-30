@@ -6,7 +6,6 @@
 - `Python.` 🐍
 - `Exploratory Data Analysis.`🧮🔎💡
 - `Power BI.` 📊📈
-- `APIs.`📂
 - `Supervised & unsupervised learning for ML models.`🤖🤖
  
 I love playing with Raspberry PI and Arduino to create domotics and useless robots. 👨‍💻
