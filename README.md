@@ -1,6 +1,6 @@
 
  Hi there! 👋
- My name's Carlos. I'm a `Data Scientist` expirienced in fintech. I'm currently colaborating with Billpocket & Dereum Labs.
+ My name's Carlos. I'm a `Data Scientist` expirienced in fintech. I'm currently colaborating with Billpocket as a DAta Scientis & Coderhouse as Teacher Assistant.
  
  My main tools:
 - `Python.` 🐍
